@@ -1,0 +1,11 @@
+D:\Programming\repos\Simple_RPG\Engine\bin\Debug\net6.0\Engine.deps.json
+D:\Programming\repos\Simple_RPG\Engine\bin\Debug\net6.0\Engine.dll
+D:\Programming\repos\Simple_RPG\Engine\bin\Debug\net6.0\Engine.pdb
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.dll
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\refint\Engine.dll
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.pdb
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\ref\Engine.dll
