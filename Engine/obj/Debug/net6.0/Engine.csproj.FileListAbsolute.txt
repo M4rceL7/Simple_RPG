@@ -9,3 +9,4 @@ D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.dll
 D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\refint\Engine.dll
 D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.pdb
 D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\ref\Engine.dll
+D:\Programming\repos\Simple_RPG\Engine\obj\Debug\net6.0\Engine.g.resources
